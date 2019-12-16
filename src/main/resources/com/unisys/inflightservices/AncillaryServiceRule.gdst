@@ -697,7 +697,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>321</valueString>
+        <valueString>310</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -707,12 +707,12 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>JFK</valueString>
+        <valueString>ORD</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>NW30</valueString>
+        <valueString>UW\\w*</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -732,7 +732,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>NW</valueString>
+        <valueString>UW</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -742,7 +742,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
