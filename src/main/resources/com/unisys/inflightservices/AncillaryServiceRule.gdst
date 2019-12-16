@@ -803,7 +803,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>NW3\\w*</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
