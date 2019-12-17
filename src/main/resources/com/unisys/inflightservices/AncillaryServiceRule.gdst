@@ -692,7 +692,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>NonVeg Meal</valueString>
+        <valueString>Veg Meal</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -717,7 +717,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>MSP</valueString>
+        <valueString>BLR</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
