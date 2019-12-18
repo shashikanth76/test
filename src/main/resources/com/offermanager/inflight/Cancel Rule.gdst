@@ -498,7 +498,7 @@
   <imports>
     <imports/>
   </imports>
-  <packageName>com.unisys.inflightservices</packageName>
+  <packageName>com.offermanager.inflight</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
   <hitPolicy>RULE_ORDER</hitPolicy>
   <data>
@@ -515,7 +515,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>321</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
